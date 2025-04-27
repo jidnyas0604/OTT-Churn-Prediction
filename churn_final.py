@@ -10,7 +10,7 @@ from imblearn.over_sampling import SMOTE # type: ignore
 import joblib # type: ignore
 
 # Load dataset
-file_path = "/Users/jidnyasbbhonge/Documents/JBB/Mini_Project/ott_churn.csv"
+file_path = "<Enter the file path>"
 df = pd.read_csv(file_path)
 
 # Handling missing values
